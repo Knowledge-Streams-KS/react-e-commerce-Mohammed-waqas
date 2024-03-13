@@ -1,7 +1,8 @@
+import Product from "../src/pages/Product.jsx";
 function App() {
   return (
     <>
-      <h1>hello</h1>
+      <Product />
     </>
   );
 }
